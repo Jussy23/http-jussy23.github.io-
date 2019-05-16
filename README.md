@@ -4,6 +4,8 @@ The point of this is to gain familiarity with Github and to also teach myself so
 
 The point is to try it and see if I can figure out a good way to do this.
 
+![](https://github.com/Jussy23/http-jussy23.github.io-/blob/master/customer-service-attentivennes.png?raw=true)
+
 As well to see if I have any apptitude.
 
 ### Markdown
