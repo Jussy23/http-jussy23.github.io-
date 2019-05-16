@@ -4,6 +4,9 @@ The point of this is to gain familiarity with Github and to also teach myself so
 
 The point is to try it and see if I can figure out a good way to do this.
 
+![](https://www.google.com/search?q=puppy+images+png&rlz=1C1CHBF_enUS743US743&tbm=isch&source=iu&ictx=1&fir=Taask_1HjuyTnM%253A%252CFOYqpLjAJneh9M%252C_&vet=1&usg=AI4_-kRBab-qveKw9cHB7fGWSkjzMNttuQ&sa=X&ved=2ahUKEwjzvu_-lp_iAhVCMawKHQk-A9sQ9QEwAHoECAcQBA#imgrc=Taask_1HjuyTnM:)
+
+
 As well to see if I have any apptitude.
 
 ### Markdown
